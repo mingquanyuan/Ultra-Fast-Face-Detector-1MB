@@ -5,6 +5,7 @@
 - 模型预测包括以下三部分：人脸位置，confidence，人脸5个关键点
 ## Todo
 - 加入pth -> onnx, onnx -> tnn模型转换脚本
+- 可视化人脸关键点
 
 ## References
 - [Face-Detector-1MB-with-landmark](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
